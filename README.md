@@ -87,7 +87,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Analogweb](http://analogweb.org/) - Tiny, simple, and pluggable web framework in Scala.
 * [Chaos ★ 182 ⧗ 4](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
-* [Colossus](http://tumblr.github.io/colossus/) - lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
+* **[Colossus ★ 811 ⧗ 70](http://tumblr.github.io/colossus/)** - lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
 * **[Finatra ★ 1189 ⧗ 0](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
 * **[Lift ★ 983 ⧗ 2](https://github.com/lift/framework)** - Secure and powerful full stack web framework ([discussion](https://github.com/lauris/awesome-scala/pull/19)).
 * [peregine ★ 7 ⧗ 35](https://github.com/dvarelap/peregrine) - A simple and async lightweight Scala web framework.
@@ -96,7 +96,7 @@ Projects with over 500 stargazers are in bold.
 * **[Scalatra ★ 1903 ⧗ 0](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
 * **[Skinny Framework ★ 535 ⧗ 0](https://github.com/skinny-framework/skinny-framework)** - A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [Socko](http://sockoweb.org/) - An embedded Scala web server powered by Netty networking and Akka processing.
-* **[Spray ★ 2284 ⧗ 0](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
+* **[Spray ★ 2380 ⧗ 566](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * **[Unfiltered ★ 626 ⧗ 12](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
 
